@@ -1,0 +1,5 @@
+k:\home\code\EggBasket\EggBasket\bin\Debug\Ballance.EggBasketDeterminer.exe.config
+k:\home\code\EggBasket\EggBasket\bin\Debug\Ballance.EggBasketDeterminer.exe
+k:\home\code\EggBasket\EggBasket\bin\Debug\Ballance.EggBasketDeterminer.pdb
+k:\home\code\EggBasket\EggBasket\obj\Debug\Ballance.EggBasketDeterminer.exe
+k:\home\code\EggBasket\EggBasket\obj\Debug\Ballance.EggBasketDeterminer.pdb
