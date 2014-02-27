@@ -1,2 +1,0 @@
-k:\home\code\EggBasket\EggBasket\bin\Debug\EggBasket.exe.config
-k:\home\code\EggBasket\EggBasket\obj\Debug\EggBasket.csprojResolveAssemblyReference.cache
